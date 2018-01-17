@@ -20,6 +20,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         print("hello")
         print("Hey")
         print("world")
+        print("yes")
         return true
     }
 
